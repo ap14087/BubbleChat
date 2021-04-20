@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053162795035",
+    "project_id": "seri-f10c9",
+    "storage_bucket": "seri-f10c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053162795035:android:76d2a4c0a89c0bc29e48be",
+        "android_client_info": {
+          "package_name": "com.example.seri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053162795035-btln80jj7jlp1o8r1gamqutfei50ci42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9BKNuvKbaWP4KhiWUvTHxNmIMM63KYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053162795035-btln80jj7jlp1o8r1gamqutfei50ci42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
